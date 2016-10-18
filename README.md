@@ -5,6 +5,7 @@
 I want to be able to understand a simple example perhaps a hello world application using Angular 2.
 
 I want you to create:
+
         - A Module
         - A Component
         - An app.js
